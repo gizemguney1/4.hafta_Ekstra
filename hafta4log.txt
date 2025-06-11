@@ -1,0 +1,4 @@
+- SpooferARP sınıfı kullanılarak ARP spoofing işlemi denendi.
+- Aktif ve pasif zehirleme yöntemleri uygulandı.
+- Ağ trafiği durduruldu ve restore işlemi yapıldı.
+- Kod test edildi ve deneme ortamında çalıştırıldı.
